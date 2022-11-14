@@ -12,7 +12,7 @@ Currently working for the Napleton Automotive Group and whether it turns on or d
 - Web application for real time sales statistics
 - Predictive modeling and forcasting of about 49.2 million data points
 - Small Mac OS application that allows more robust control over your onboard network interface
-- 
+    - App would live in the menu bar on top of the screen and display a variety of network statistics based on user settings.
 
 ## 🌱 I'm currently learning
 
