@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Jakub 👋 </h3> 
 
-<h2 align="center">I'm an IT Engineer  :wrench:  and asipring Software Engineer :computer: :bar_chart: </h2> 
+<h2 align="center">I'm an IT Engineer  :wrench:  and aspiring Software Engineer :computer: :bar_chart: </h2> 
 
 Currently working for the Napleton Automotive Group and whether it turns on or doesn't, I'm there to fix it. Took my ability for critical thinking and troubleshooting in IT and translated that into Software/Data Engineering. Completely BA in Computer Science and Mathematics in December of 2021 and currently working my Masters Degree in Information Security and Assurance.
 
