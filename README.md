@@ -5,6 +5,7 @@
 Currently working for the Napleton Automotive Group and whether it turns on or doesn't, I'm there to fix it. Took my ability for critical thinking and troubleshooting in IT and translated that into Software/Data Engineering. Completely BA in Computer Science and Mathematics in December of 2021 and currently working my Masters Degree in Information Security and Assurance.
 
 ### 🤝 Connect with me:
+- [Linkedin](https://www.linkedin.com/in/jakub-smolucha-856649b9/)
 
 ## 🔭 I'm currently working on
 
