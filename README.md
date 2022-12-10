@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm an IT Engineer  :wrench:  and aspiring Software Engineer :computer: :bar_chart: </h2> 
 
-Currently working for the Napleton Automotive Group and whether it turns on or doesn't, I'm there to fix it. Took my ability for critical thinking and troubleshooting in IT and translated that into Software/Data Engineering. Completely BA in Computer Science and Mathematics in December of 2021 and currently working my Masters Degree in Information Security and Assurance.
+Currently working for the Napleton Automotive Group and whether it turns on or doesn't, I'm there to fix it. Took my ability for critical thinking and troubleshooting in IT and translated that into Software/Data Engineering. Completed BA in Computer Science and Mathematics in December of 2021 and currently working my Masters Degree in Information Security and Assurance.
 
 ### 🤝 Connect with me:
 - [Linkedin](https://www.linkedin.com/in/jakub-smolucha-856649b9/)
@@ -14,13 +14,14 @@ Currently working for the Napleton Automotive Group and whether it turns on or d
 - Predictive modeling and forcasting of about 49.2 million data points
 - Small Mac OS application that allows more robust control over your onboard network interface
     - App would live in the menu bar on top of the screen and display a variety of network statistics based on user settings.
+- Chrome extension to track your packages that you order
 
 ## 🌱 I'm currently learning
 
 - Python with emphasis on data science and data visualization.
 - IoT devices and writing drivers 
 - More advanced topics in JavaScript
-- 
+
 
 ## 💼 Technical Skills
 
