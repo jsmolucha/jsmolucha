@@ -12,6 +12,7 @@ Currently working for the Napleton Automotive Group and whether it turns on or d
     - This is my first Chrome extension that was meant to solidify my knowledge about JavaScript 
     - Helping me to understand how to properly optimize functions for quick runtime in order to not bog down the browser
     - Strengthening my knowledge about the DOM, DOM elements, async functions, promise/await and chrome storage pools
+    - Project link: https://github.com/jsmolucha/packtrack
     
 ## 🔭 I'm currently working on
 
