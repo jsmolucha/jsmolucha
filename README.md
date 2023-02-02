@@ -8,10 +8,11 @@ Currently working for the Napleton Automotive Group and whether it turns on or d
 - [Linkedin](https://www.linkedin.com/in/jakub-smolucha-856649b9/)
 
 ## 🌟 Main Project 📫
-- Chrome extension to track your packages that you order called "Packtrack"
+- Chrome extension to track your packages that you order called "Shippy"
     - This is my first Chrome extension that was meant to solidify my knowledge about JavaScript 
     - Helping me to understand how to properly optimize functions for quick runtime in order to not bog down the browser
-    - Strengthening my knowledge about the DOM, DOM elements, async functions, promise/await and chrome storage pools
+    - Strengthening my knowledge about the DOM, DOM elements, async functions, promise/await and syncing chrome storage pools
+    - Developing a deeper understanding of webcrawling with JavaScript and pulling information from DOM elements
     - Project link: https://github.com/jsmolucha/packtrack
     
 ## 🔭 I'm currently working on
